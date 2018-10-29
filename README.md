@@ -1,2 +1,2 @@
-# bash-scripts
-Various BASH scripts I've written for various purposes.
+# dns-bash-scripts
+Shell scripts used for parsing DNS zone files
